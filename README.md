@@ -1,1 +1,1 @@
-## List of scripts that exploits Vulnerabilities in certain games.
+## List of scripts that exploits vulnerabilities in certain games.
