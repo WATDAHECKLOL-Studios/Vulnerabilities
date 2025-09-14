@@ -5,6 +5,6 @@ local player = players.LocalPlayer :: Player;
 local event = replicated_storage.AdminEvents.RespawnEvent;
 
 while true do 
-    task.wait();
+    task.wait(0.08);
     event:FireServer(player);
 end;
