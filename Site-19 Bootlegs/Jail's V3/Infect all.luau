@@ -28,7 +28,7 @@ local syn_secure_call = @native function(func: (...any) -> (...any), target_scri
 end;
 local replicated_storage = cloneref(game:GetService("ReplicatedStorage"));
 local atlas = syn_secure_call(require, nil, replicated_storage.Atlas);
-local event = syn_secure_call(rawget(atlas, "GetObject"), atlas, atlas, "008Remote");
+local event = syn_secure_call(rawget(atlas, "GetObject"), replicated_storage.Atlas, atlas, "008Remote");
 for _,v in cloneref(game:GetService("Players")):GetPlayers() do
 	event:FireServer(v);
 end;
