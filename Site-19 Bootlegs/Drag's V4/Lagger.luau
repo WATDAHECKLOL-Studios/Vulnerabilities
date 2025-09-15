@@ -32,7 +32,3 @@ local replicated_storage = cloneref(game:GetService("ReplicatedStorage"));
 local atlas = syn_secure_call(require, nil, replicated_storage.Atlas);
 local event = syn_secure_call(rawget(atlas, "GetObject"), atlas, atlas, "CITeamEvent", nil);
 event:FireServer();
-local replicated_storage = cloneref(game:GetService("ReplicatedStorage"));
-local atlas = syn_secure_call(require, nil, replicated_storage.Atlas);
-local event = syn_secure_call(rawget(atlas, "GetObject"), replicated_storage.Atlas, atlas, "CITeamEvent", nil);
-event:FireServer();
