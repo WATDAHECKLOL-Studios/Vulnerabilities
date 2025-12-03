@@ -1,4 +1,4 @@
--- Re-Release, see the inner short inner workings of the vulnerability that managed to kill SCP AL2! almost 3 months later.
+-- Re-Release, see the short inner workings of the vulnerability that managed to kill SCP AL2! almost 3 months later.
 local replicated_storage = cloneref(game:GetService("ReplicatedStorage")) :: ReplicatedStorage;
 local Event: RemoteFunction = replicated_storage.Remotes.PickupItem;
 local drop: RemoteFunction = replicated_storage.Remotes.DropItem;
