@@ -11,7 +11,7 @@
 ## While at first walermole decided to downplayed the severity of the situation, as soon as he noticed when we were in-game, he decided to teleport one of our employees and say "stop using my remotes"
 ## He didn't even care! He was still making money!
 
-## As a result we decided to change that, and sadly at first the playsound vulnerability was the first to go, but none else, he skipped right over the most severe vulnerability of them all, the weld vulnerability!
+## As a result we decided to change that, and sadly at first the playsound vulnerability was the first to go, but none else, he skipped right over the most severe vulnerability of them all, the weld vulnerability! That was located in the same script!
 ## After noticing he skipped over every vulnerability, we were extermely pleased with his ignorance, as he contuines to downplay the situation to the public as things still get worse!
 
 ## Now all the sudden, the entire map is in the air, and all the spawns are deleted!
