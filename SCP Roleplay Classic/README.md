@@ -17,7 +17,7 @@
 ## Now all the sudden, the entire map is in the air, and all the spawns are deleted!
 ## Oh how lost he was, panicing internally, trying to accept help from the public, but trying to appear fine on the outside! Initally he first thought it was an adonis vulnerability, how silly of him!
 
-## He decided to add an anti-cheat (funny enough is stolen from the adoni's anti cheat lmao).
+## He decided to add an anti-cheat (funny enough is stolen from the adonis anti cheat lmao).
 ## Even the anti cheat he added didn't like him, and decided to go rouge and false postive almost everyone!
 
 ## Now this anti-cheat as you expect, didn't stop us by one bit, but we decided to bypass it anyways, to simply get rid of any potential threat, even if it doesn't actually pose a threat.
