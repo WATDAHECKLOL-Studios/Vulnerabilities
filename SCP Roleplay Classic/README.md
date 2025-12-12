@@ -6,7 +6,7 @@
 
 ## I first found out about the game by a friend, I decide to take a look, At first the first vulnerability discovered was the play sound, I was very pleased with this, and I decide to take a deeper look.
 
-## I decide to decomplie and anylze the game, and mostly all the scripts were made by ChatGPT! And soon realized the entire gun system was vulnerable, and soon more were discovered, going under watermole's radar for more under a week!
+## I decide to decomplie and anylze the game, and mostly all the scripts were made by ChatGPT! And soon realized the entire gun system was vulnerable, and soon more were discovered, going under watermole's radar for more than a week!
 
 ## While at first walermole decided to downplayed the severity of the situation, as soon as he noticed when we were in-game, he decided to teleport one of our employees and say "stop using my remotes"
 ## He didn't even care! He was still making money!
@@ -28,3 +28,4 @@
 
 ## Thankfully the patches were done way too late, we already had our fun, I am sure you miss us!
 
+"What is happening" - A random 40 year old in VC's reaction to the map being teleported into the void.
