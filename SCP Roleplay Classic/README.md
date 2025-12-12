@@ -21,7 +21,7 @@
 ## Even the anti cheat he added didn't like him, and decided to go rouge and false postive almost everyone!
 
 ## Now this anti-cheat as you expect, didn't stop us by one bit, but we decided to bypass it anyways, to simply get rid of any potential threat, even if it doesn't actually pose a threat.
-## After awhile, he gave up, and hired someone to patch the game for him, now suddenly the clueless egoistical roblox developer who didn't know how to patch anything suddenly patched everything.
+## After he waited a few days and realized we wont get bored, he gave up, and hired someone to patch the game for him, now suddenly the clueless egoistical roblox developer who didn't know how to patch anything suddenly patched everything.
 
 ## Luckily for us, even when he had a 3rd party intervented, they still failed to patch, as the infinite money vulnerability and give any tool vulnerability went under the radar for months!
 ## Months later, we decide to take a visit, and unfortnatuly every single one of our vulnerabilities were patched.
